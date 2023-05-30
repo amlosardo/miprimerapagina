@@ -142,4 +142,7 @@ header {
 }
 button {
     max-height:20px;
-}            
+}
+.greeting {
+    text-align: center;
+    }
